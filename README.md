@@ -1,16 +1,43 @@
-## Hi there 👋
+# ⚡ NEON
 
-<!--
-**NEONXAI/NEONXAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building with AI. Exploring the future of creativity.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I'm exploring the world of AI through:
+
+- Prompt Engineering
+- AI Art Generation
+- AI Video Creation
+- Creative Automation
+- AI Workflows
+
+
+## 🛠️ AI Playground
+
+Currently experimenting with:
+
+- Generative AI
+- Prompt Design
+- Visual AI Tools
+- AI-powered workflows
+
+
+## 🚀 Current Focus
+
+- Improving Prompt Engineering skills
+- Creating AI visuals and videos
+- Learning new AI tools
+- Building creative experiments
+
+
+## 🔮 Vision
+
+Using AI as a creative partner to transform ideas into reality.
+
+
+
+⚡ Always learning. Always creating.
+
+
